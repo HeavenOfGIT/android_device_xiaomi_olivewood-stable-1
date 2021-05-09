@@ -1,11 +1,13 @@
 Copyright (C) 2020 The LineageOS Project
 
-Common configuration for the Xiaomi SDM439 devices
+![IMG_20210509_202731_528](https://user-images.githubusercontent.com/80821792/117576871-14fcd980-b105-11eb-9b19-60e00a8c9e61.jpg)
+
+Device configuration of Xiaomi Redmi 8A Dual
 ============================================
 
 ## Device specifications
 
-Basic   | Spec Sheet
+Device  | Spec Sheet
 -------:|:-------------------------
 SoC     | Qualcomm SDM439/msm8937
 CPU     | Octa-core (2.0 GHz)
