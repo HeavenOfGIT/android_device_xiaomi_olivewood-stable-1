@@ -1,1 +1,1 @@
-# android_device_xiaomi_olivewood-stable-1
+Stable device tree for Redmi 8A Dual
